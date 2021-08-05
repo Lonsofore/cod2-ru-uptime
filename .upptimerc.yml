@@ -11,6 +11,14 @@ sites:
     url: https://files.cod2.ru
   - name: Models
     url: https://models.cod2.ru
+  - name: CoD2.ru Master server
+    check: "tcp-ping"
+    url: master.cod2.ru
+    port: 20710
+  - name: Global Master server
+    check: "tcp-ping"
+    url: cod2master.activision.com
+    port: 20710
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
