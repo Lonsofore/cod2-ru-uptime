@@ -9,6 +9,8 @@ sites:
     url: https://script.cod2.ru
   - name: Files
     url: https://files.cod2.ru
+  - name: Files Deathrun
+    url: https://files.cod2.ru/servers/dr/blank.jpg
   - name: Models
     url: https://models.cod2.ru
   # TODO udp-check
@@ -27,7 +29,7 @@ status-website:
   cname: status.cod2.ru
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: CoD2.ru Upptime
   introTitle: "**CoD2.ru** status page with all the projects inside."
   introMessage: This status page uses **real-time** data from the [GitHub repository](https://github.com/lonsofore/cod2-ru-upptime).
   navbar:
