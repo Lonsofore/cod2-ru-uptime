@@ -4,10 +4,10 @@
     "url": "https://cod2.ru",
     "icon": "https://favicons.githubusercontent.com/cod2.ru",
     "slug": "co-d2-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1027,
@@ -15,17 +15,19 @@
     "timeWeek": 1251,
     "timeMonth": 1064,
     "timeYear": 1027,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 2
+    }
   },
   {
     "name": "Scripts",
     "url": "https://script.cod2.ru",
     "icon": "https://favicons.githubusercontent.com/script.cod2.ru",
     "slug": "scripts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 980,
@@ -34,6 +36,7 @@
     "timeMonth": 1022,
     "timeYear": 980,
     "dailyMinutesDown": {
+      "2021-10-04": 2,
       "2021-08-05": 10
     }
   },
@@ -42,10 +45,10 @@
     "url": "https://files.cod2.ru",
     "icon": "https://favicons.githubusercontent.com/files.cod2.ru",
     "slug": "files",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 978,
@@ -53,17 +56,19 @@
     "timeWeek": 1108,
     "timeMonth": 995,
     "timeYear": 978,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 1
+    }
   },
   {
     "name": "Files Deathrun",
     "url": "https://files.cod2.ru/servers/dr/blank.jpg",
     "icon": "https://favicons.githubusercontent.com/files.cod2.ru",
     "slug": "files-deathrun",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
@@ -71,16 +76,18 @@
     "timeWeek": 191,
     "timeMonth": 170,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 1
+    }
   },
   {
     "name": "Models",
     "url": "https://models.cod2.ru",
     "icon": "https://favicons.githubusercontent.com/models.cod2.ru",
     "slug": "models",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +96,8 @@
     "timeWeek": 1500,
     "timeMonth": 1324,
     "timeYear": 1281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 0
+    }
   }
 ]
