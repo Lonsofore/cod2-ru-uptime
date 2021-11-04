@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
-    "time": 1046,
-    "timeDay": 1209,
+    "time": 1047,
+    "timeDay": 1188,
     "timeWeek": 1141,
     "timeMonth": 1089,
-    "timeYear": 1046,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2021-10-04": 73
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
-    "time": 1003,
+    "time": 1005,
     "timeDay": 1215,
-    "timeWeek": 1124,
-    "timeMonth": 1055,
-    "timeYear": 1003,
+    "timeWeek": 1131,
+    "timeMonth": 1056,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2021-10-04": 72,
       "2021-08-05": 10
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
-    "time": 996,
-    "timeDay": 1082,
-    "timeWeek": 1089,
-    "timeMonth": 1043,
-    "timeYear": 996,
+    "time": 998,
+    "timeDay": 1151,
+    "timeWeek": 1086,
+    "timeMonth": 1039,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2021-10-04": 72
     }
@@ -72,7 +72,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
     "time": 169,
-    "timeDay": 195,
+    "timeDay": 188,
     "timeWeek": 182,
     "timeMonth": 173,
     "timeYear": 169,
@@ -86,16 +86,16 @@
     "icon": "https://favicons.githubusercontent.com/models.cod2.ru",
     "slug": "models",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.94%",
-    "time": 1297,
-    "timeDay": 1514,
-    "timeWeek": 1405,
-    "timeMonth": 1334,
-    "timeYear": 1297,
+    "uptimeYear": "99.95%",
+    "time": 1300,
+    "timeDay": 1561,
+    "timeWeek": 1438,
+    "timeMonth": 1338,
+    "timeYear": 1300,
     "dailyMinutesDown": {
       "2021-10-04": 71
     }
