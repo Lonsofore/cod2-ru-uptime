@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1053,
-    "timeDay": 1221,
-    "timeWeek": 1171,
-    "timeMonth": 1058,
-    "timeYear": 1053,
+    "time": 1051,
+    "timeDay": 751,
+    "timeWeek": 1101,
+    "timeMonth": 1042,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2021-10-04": 73
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1000,
-    "timeDay": 956,
-    "timeWeek": 1087,
-    "timeMonth": 978,
-    "timeYear": 1000,
+    "time": 998,
+    "timeDay": 734,
+    "timeWeek": 1030,
+    "timeMonth": 961,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2021-10-04": 72,
       "2021-08-05": 10
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 990,
-    "timeDay": 958,
-    "timeWeek": 1021,
-    "timeMonth": 966,
-    "timeYear": 990,
+    "time": 988,
+    "timeDay": 654,
+    "timeWeek": 948,
+    "timeMonth": 949,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2021-10-04": 72
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 170,
-    "timeDay": 185,
-    "timeWeek": 181,
-    "timeMonth": 171,
-    "timeYear": 170,
+    "time": 169,
+    "timeDay": 126,
+    "timeWeek": 171,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2021-10-04": 71
     }
@@ -86,16 +86,16 @@
     "icon": "https://favicons.githubusercontent.com/models.cod2.ru",
     "slug": "models",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 1298,
-    "timeDay": 1316,
-    "timeWeek": 1375,
-    "timeMonth": 1276,
-    "timeYear": 1298,
+    "uptimeYear": "99.97%",
+    "time": 1296,
+    "timeDay": 935,
+    "timeWeek": 1286,
+    "timeMonth": 1254,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2021-10-04": 71
     }
