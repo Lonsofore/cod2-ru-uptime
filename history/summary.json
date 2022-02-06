@@ -6,17 +6,16 @@
     "slug": "co-d2-ru",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1040,
-    "timeDay": 1222,
-    "timeWeek": 977,
-    "timeMonth": 997,
+    "timeDay": 1085,
+    "timeWeek": 941,
+    "timeMonth": 995,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2022-02-05": 7,
       "2021-10-04": 73
     }
   },
@@ -32,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 990,
-    "timeDay": 1149,
-    "timeWeek": 914,
+    "timeDay": 892,
+    "timeWeek": 870,
     "timeMonth": 958,
     "timeYear": 990,
     "dailyMinutesDown": {
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 977,
-    "timeDay": 1206,
-    "timeWeek": 917,
+    "time": 976,
+    "timeDay": 895,
+    "timeWeek": 887,
     "timeMonth": 939,
-    "timeYear": 977,
+    "timeYear": 976,
     "dailyMinutesDown": {
       "2021-10-04": 72
     }
@@ -73,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 168,
-    "timeDay": 193,
-    "timeWeek": 152,
+    "timeDay": 152,
+    "timeWeek": 147,
     "timeMonth": 161,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -93,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1289,
-    "timeDay": 1646,
-    "timeWeek": 1202,
-    "timeMonth": 1244,
+    "timeDay": 1236,
+    "timeWeek": 1170,
+    "timeMonth": 1246,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2021-10-04": 71
