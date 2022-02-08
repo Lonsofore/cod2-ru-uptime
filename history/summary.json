@@ -4,10 +4,10 @@
     "url": "https://cod2.ru",
     "icon": "https://favicons.githubusercontent.com/cod2.ru",
     "slug": "co-d2-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1040,
@@ -16,6 +16,7 @@
     "timeMonth": 998,
     "timeYear": 1040,
     "dailyMinutesDown": {
+      "2022-02-08": 1,
       "2021-10-04": 73
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://script.cod2.ru",
     "icon": "https://favicons.githubusercontent.com/script.cod2.ru",
     "slug": "scripts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 990,
@@ -36,6 +37,7 @@
     "timeMonth": 963,
     "timeYear": 990,
     "dailyMinutesDown": {
+      "2022-02-08": 1,
       "2021-10-04": 72,
       "2021-08-05": 10
     }
