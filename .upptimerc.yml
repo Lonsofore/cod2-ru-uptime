@@ -5,14 +5,14 @@ repo: cod2-ru-uptime # The name of this repository
 sites:
   - name: CoD2.ru
     url: https://cod2.ru
-  - name: Scripts
-    url: https://script.cod2.ru
-  - name: Files
-    url: https://files.cod2.ru
-  - name: Files Deathrun
-    url: https://files.cod2.ru/servers/dr/blank.jpg
-  - name: Models
-    url: https://models.cod2.ru
+  #- name: Scripts
+  #  url: https://script.cod2.ru
+  #- name: Files
+  #  url: https://files.cod2.ru
+  #- name: Files Deathrun
+  #  url: https://files.cod2.ru/servers/dr/blank.jpg
+  #- name: Models
+  #  url: https://models.cod2.ru
   # TODO udp-check
   #- name: CoD2.ru Master server
   #  check: "tcp-ping"
