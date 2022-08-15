@@ -4,7 +4,7 @@
     "url": "https://cod2.ru",
     "icon": "https://favicons.githubusercontent.com/cod2.ru",
     "slug": "co-d2-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "77.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 580,
     "timeYear": 902,
     "dailyMinutesDown": {
+      "2022-08-15": 0,
       "2022-08-13": 286,
       "2022-08-12": 480,
       "2022-08-11": 1440,
