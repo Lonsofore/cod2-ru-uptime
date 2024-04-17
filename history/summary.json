@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cod2.ru.ico",
     "slug": "co-d2-ru",
     "status": "down",
-    "uptime": "87.99%",
+    "uptime": "87.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-04-16": 27,
+      "2024-04-17": 27,
+      "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
