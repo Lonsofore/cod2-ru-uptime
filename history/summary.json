@@ -6,17 +6,16 @@
     "slug": "co-d2-ru",
     "status": "up",
     "uptime": "76.71%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "27.29%",
-    "time": 674,
-    "timeDay": 572,
-    "timeWeek": 630,
-    "timeMonth": 667,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "27.32%",
+    "time": 673,
+    "timeDay": 617,
+    "timeWeek": 619,
+    "timeMonth": 664,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-01-16": 13,
       "2024-10-08": 417,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -280,8 +279,7 @@
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
-      "2024-01-19": 1440,
-      "2024-01-18": 1440
+      "2024-01-19": 1440
     }
   }
 ]
