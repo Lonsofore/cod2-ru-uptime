@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cod2.ru.ico",
     "slug": "co-d2-ru",
     "status": "up",
-    "uptime": "56.69%",
+    "uptime": "56.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "23.62%",
-    "time": 2591,
-    "timeDay": 4184,
-    "timeWeek": 3238,
-    "timeMonth": 3527,
-    "timeYear": 2591,
+    "uptimeYear": "23.88%",
+    "time": 2588,
+    "timeDay": 3151,
+    "timeWeek": 3143,
+    "timeMonth": 3460,
+    "timeYear": 2588,
     "dailyMinutesDown": {
       "2026-08-15": 1402,
       "2026-08-14": 1440,
@@ -292,8 +292,7 @@
       "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
-      "2025-11-12": 1440,
-      "2025-11-11": 1440
+      "2025-11-12": 1440
     }
   }
 ]
